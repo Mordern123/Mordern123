@@ -3,7 +3,7 @@
 ### Skills
 
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
-![Angular](https://img.shields.io/badge/-Django-192133?style=flat-square&logo=figma&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-192133?style=flat-square&logo=figma&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-192133?style=flat-square&logo=figma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-192133?style=flat-square&logo=redis&logoColor=white)
