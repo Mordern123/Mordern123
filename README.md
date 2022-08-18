@@ -2,8 +2,12 @@
 
 |Frontend |Backend|Language |Database|
 |-----|--------|-----|--------|
-|![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)|![Angular](https://img.shields.io/badge/-Angular-192133?style=flat-square&logo=figma&logoColor=white)|
-
+|![Angular](https://img.shields.io/badge/-Angular-192133?style=flat-square&logo=figma&logoColor=white)|||||
+|![Vue](https://img.shields.io/badge/-Vue-192133?style=flat-square&logo=figma&logoColor=white)|||||
+|![Bootstrap5](https://img.shields.io/badge/-Bootstrap5-192133?style=flat-square&logo=figma&logoColor=white)|||||
+|![RxJS](https://img.shields.io/badge/-RxJS-192133?style=flat-square&logo=figma&logoColor=white)|||||
+|![NgRx](https://img.shields.io/badge/-NgRx-192133?style=flat-square&logo=figma&logoColor=white)|||||
+![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-192133?style=flat-square&logo=figma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-192133?style=flat-square&logo=redis&logoColor=white)
