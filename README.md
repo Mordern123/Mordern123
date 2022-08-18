@@ -10,6 +10,6 @@
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-192133?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-192133?style=flat-square&logo=apache-kafka&logoColor=white)
 
-### Project
+### Project and Practice
 [![pythondict-quant](https://img.shields.io/badge/pythondict-quant-192133?style=flat-square)](https://github.com/Ckend/pythondict-quant)
 [![scihub-cn](https://img.shields.io/badge/scihub-cn-192133?style=flat-square)](https://github.com/Ckend/scihub-cn)
