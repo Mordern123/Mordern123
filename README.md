@@ -2,6 +2,10 @@
 
 ### Skills
 
+|Name |Quantity|Name |Quantity|Name |Quantity|
+|-----|--------|-----|--------|-----|--------|
+|Apple|3       |Apple|3       |Apple|3       |
+|Egg  |12      |Apple|3       |Apple|3       |
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-192133?style=flat-square&logo=figma&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-192133?style=flat-square&logo=figma&logoColor=white)
