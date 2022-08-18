@@ -2,7 +2,7 @@
 
 ### Skills
 
-|Name |Quantity|Name |Quantity|Name |
+|Frontend |Backend|Language |Database|Blockchain |
 |-----|--------|-----|--------|-----|
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-192133?style=flat-square&logo=figma&logoColor=white)
