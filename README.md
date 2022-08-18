@@ -12,8 +12,3 @@
 |![RxJS](https://img.shields.io/badge/-RxJS-192133?style=flat-square&logo=figma&logoColor=white)||![JavaScript](https://img.shields.io/badge/-JavaScript-192133?style=flat-square&logo=python&logoColor=white)||
 |![NgRx](https://img.shields.io/badge/-NgRx-192133?style=flat-square&logo=figma&logoColor=white)||![TypeScript](https://img.shields.io/badge/-TypeScript-192133?style=flat-square&logo=python&logoColor=white)||
 |![React](https://img.shields.io/badge/-React-192133?style=flat-square&logo=figma&logoColor=white)||||
-
-### Project and Practice
-
-[![pythondict-quant](https://img.shields.io/badge/pythondict-quant-192133?style=flat-square)](https://github.com/Ckend/pythondict-quant)
-[![scihub-cn](https://img.shields.io/badge/scihub-cn-192133?style=flat-square)](https://github.com/Ckend/scihub-cn)
