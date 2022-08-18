@@ -2,8 +2,8 @@
 
 |Frontend |Backend|Language |Database|
 |-----|--------|-----|--------|
-|![Angular](https://img.shields.io/badge/-Angular-192133?style=flat-square&logo=figma&logoColor=white)||![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)||![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)|
-|![Vue](https://img.shields.io/badge/-Vue-192133?style=flat-square&logo=figma&logoColor=white)||||![MongoDB](https://img.shields.io/badge/-MongoDB-192133?style=flat-square&logo=mysql&logoColor=white)|
+|![Angular](https://img.shields.io/badge/-Angular-192133?style=flat-square&logo=figma&logoColor=white)|![Node.js](https://img.shields.io/badge/-Node.js-192133?style=flat-square&logo=python&logoColor=white)|![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)||![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)|
+|![Vue](https://img.shields.io/badge/-Vue-192133?style=flat-square&logo=figma&logoColor=white)|![Express.js](https://img.shields.io/badge/-Express.js-192133?style=flat-square&logo=python&logoColor=white)|||![MongoDB](https://img.shields.io/badge/-MongoDB-192133?style=flat-square&logo=mysql&logoColor=white)|
 |![Bootstrap5](https://img.shields.io/badge/-Bootstrap5-192133?style=flat-square&logo=figma&logoColor=white)|||||
 |![RxJS](https://img.shields.io/badge/-RxJS-192133?style=flat-square&logo=figma&logoColor=white)|||||
 |![NgRx](https://img.shields.io/badge/-NgRx-192133?style=flat-square&logo=figma&logoColor=white)|||||
