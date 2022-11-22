@@ -1,5 +1,5 @@
 ### GitHub
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Mordern123&include_all_commits=true&custom_title=Mordern123'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Mordern123&count_private-true&include_all_commits=true&custom_title=Mordern123'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
 
 ### Skills
 ![Angular](https://img.shields.io/badge/-Angular-192133?style=flat-square&logo=figma&logoColor=white)
