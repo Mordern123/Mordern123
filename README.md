@@ -1,6 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey! Nice to see you.</h1>
 <p>Welcome to my page! <br/>I am Eric, Frontend developer from <img src="https://www.sipa.gov.tw/img/logo.jpg" width="13"/> <b>Hsinchu Science Park</b>, currently living in<img src="https://www.paralympic.org//sites/default/files/images/170209154509236_TPE_NPC_logo_2016_update_Emblem.jpg" width="13"/> <b>Taipei, Taiwan.</b><br/>I love writing TypeScript, and have a little interest in Blockchain.</p>
 
+- 🔭 I’m currently researching Web Fronend with [Kevin](https://github.com/hongwei0417)
+- 💬 Brainstorm with me over tech, movie, web, and music 
+- 📫 How to reach me: eeric55tw@gmail.com
+
 <h3>Frontend Things I code with</h3>
 <p>
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
