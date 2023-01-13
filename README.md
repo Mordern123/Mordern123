@@ -37,5 +37,5 @@
 
 
 
-| <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mordern123&custom_title=Mordern123'%20GitHub%20Stats&count_private=true&theme=buefy&layout=compact&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mordern123&theme=buefy&layout=compact&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9" />|
+| <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mordern123&custom_title=Mordern123'%20GitHub%20Stats&count_private=true&theme=buefy&layout=compact&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9"> | <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mordern123&theme=buefy&layout=compact&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9" />|
 | ------------- | ------------- |
